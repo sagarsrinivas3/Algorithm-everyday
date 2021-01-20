@@ -1,3 +1,4 @@
+# First Maximum number to right of the array
 a = [1, 90, 3, 20, 5, 6, 7]
 print(a)
 max = a[-1]
