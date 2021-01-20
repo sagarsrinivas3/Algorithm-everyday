@@ -1,4 +1,4 @@
-# Stack program
+# Stack program using list
 def push_element(elem) :
         stk.append(elem)
 
