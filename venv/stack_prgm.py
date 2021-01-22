@@ -2,6 +2,8 @@
 def push_element(elem) :
         stk.append(elem)
 
+
+
 def pop_element():
     if len(stk) <= 0 :
         print("STACK UNDERFLOW")
